@@ -174,7 +174,7 @@
     <!-- Slide-In Menu -->
     <div class="side-menu">
         <ul>
-        <li><a href="quransurah.php">Home</a></li>
+        <li><a href="webQuran/quransurah.php">Home</a></li>
             <li><a href="about.php">About</a></li>
             <li><a href="contact.php">Contact</a></li>
             <li>Settings</li>
@@ -184,13 +184,13 @@
     <!-- Main Content -->
     <div class="container">
         <div class="menu-item" id="quran">
-            <a href="#">
+            <a href="webQuran/quransurah.php">
                 <div class="icon">📖</div>
                 <div class="text">Recite the Holy Quran</div>
             </a>
         </div>
         <div class="menu-item" id="hadith">
-            <a href="index.php">
+            <a href="webHadith/indexhadith.php">
                 <div class="icon">📜</div>
                 <div class="text">Hadith Collection</div>
             </a>
@@ -202,7 +202,7 @@
             </a>
         </div>
         <div class="menu-item" id="supplications">
-            <a href="#">
+            <a href="collections/">
                 <div class="icon">🙏</div>
                 <div class="text">Supplications</div>
             </a>

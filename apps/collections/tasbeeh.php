@@ -19,7 +19,7 @@
             justify-content: center;
             align-items: center;
             height: 100vh; /* Full viewport height */
-            background: url('assets/img/services-2.jpg') no-repeat center center;
+            background: url('../assets/img/services-2.jpg') no-repeat center center;
             background-size: cover;
             padding: 20px;
             border-radius: 12px;

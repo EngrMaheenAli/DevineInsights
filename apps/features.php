@@ -154,7 +154,7 @@
                     <!-- Second Slide -->
                     <div class="carousel-item">
                         <div class="features-item">
-                            <h3><a href="calender.php">📅 Hijri Calendar</a></h3>
+                            <h3><a href="collections/calender.php">📅 Hijri Calendar</a></h3>
                             <p>Track Islamic dates accurately with our detailed Hijri calendar.</p>
                         </div>
                     </div>
@@ -162,7 +162,7 @@
                     <!-- Third Slide -->
                     <div class="carousel-item">
                         <div class="features-item">
-                            <h3><a href="GetHijriDate.php">📅 Date Converter</a></h3>
+                            <h3><a href="collections/GetHijriDate.php">📅 Date Converter</a></h3>
                             <p>Seamlessly convert Gregorian dates to Hijri dates and vice versa.</p>
                         </div>
                     </div>
@@ -170,7 +170,7 @@
                     <!-- Fourth Slide -->
                     <div class="carousel-item">
                         <div class="features-item">
-                            <h3><a href="qibla-finder.php">🧭 Qibla Finder</a></h3>
+                            <h3><a href="collections/qibla-finder.php">🧭 Qibla Finder</a></h3>
                             <p>Find the direction of the Qibla from anywhere in the world.</p>
                         </div>
                     </div>
@@ -178,7 +178,7 @@
                     <!-- Fifth Slide -->
                     <div class="carousel-item">
                         <div class="features-item">
-                            <h3><a href="namaz.php">🕋 Prayer Times</a></h3>
+                            <h3><a href="collections/namaz.php">🕋 Prayer Times</a></h3>
                             <p>Get accurate prayer times for your location.</p>
                         </div>
                     </div>
@@ -186,7 +186,7 @@
                     <!-- Sixth Slide -->
                     <div class="carousel-item">
                         <div class="features-item">
-                            <h3><a href="tasbeeh.php">🔢 Tasbeeh Counter</a></h3>
+                            <h3><a href="collections/tasbeeh.php">🔢 Tasbeeh Counter</a></h3>
                             <p>Keep track of your dhikr with our simple tasbeeh counter.</p>
                         </div>
                     </div>
