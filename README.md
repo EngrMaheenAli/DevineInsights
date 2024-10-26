@@ -8,7 +8,7 @@ Developed by: Maheen Ali
 🧭 Qibla Finder: Determine the direction for prayer  
 🗓 Islamic Hijri Calendar: Includes regional support  
 📘 Date Converter: Convert between Gregorian and Hijri dates  
-🕌 Prayer Times: Accurate times based on location  
+🕌 Prayer Times: Accurate times based on location
 
 Languages, Translations, and Tafaseer Statistics:  
 🌐 Total Languages: 40  
